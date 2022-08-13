@@ -1,0 +1,9 @@
+.country-div{
+    background-color: rgb(43, 48, 33);
+    color: whitesmoke;
+    border-radius: 20px;
+    border: 5px solid violet;
+    padding: 20px;
+    margin: 10px;
+}
+
